@@ -1,0 +1,10 @@
+SELECT
+    E.Name,
+    D.DepartmentName,
+    D.Location
+FROM
+    Employees AS E
+LEFT JOIN
+    Departments AS D
+ON
+    E.DepartmentID = D.DepartmentID;
