@@ -23,3 +23,13 @@ MySQL commands are generally divided into four major categories. Data Definition
 The main purpose of MySQL is to offer a stable and efficient system for managing structured data in any application. It supports multi-user access, ensures data security, and maintains consistency even when many users work at the same time. This makes it suitable for large-scale operations such as railway booking systems, university databases, online shopping platforms, and government portals like those used for taxes or identity services. MySQL also supports replication, clustering, and partitioning, which allow organisations to handle large volumes of data smoothly.
 
 Overall, MySQL is a powerful, flexible, and easy-to-learn database system. Its wide range of tools, strong SQL support, and reliability make it one of the most preferred technologies for developers, students, and businesses in India. Its role in modern IT development continues to grow as more applications and services depend on secure and efficient data management.
+
+# OUTPUT OF THE TASK 
+
+![Image](https://github.com/user-attachments/assets/7445d217-751c-465a-bfc6-23dac7e48d8d)
+![Image](https://github.com/user-attachments/assets/39302909-0b27-435e-b4f1-b8adad249cda)
+![Image](https://github.com/user-attachments/assets/96c8bd50-8554-4135-b878-ac2b7ee83e38)
+![Image](https://github.com/user-attachments/assets/25d0faa4-1b52-44f1-a327-d35d28eab0e1)
+![Image](https://github.com/user-attachments/assets/1e4d29fe-89e5-40a4-a827-f8e5c474e2be)
+![Image](https://github.com/user-attachments/assets/d12ba7ae-5662-49ff-940e-15a021bd9a4b)
+![Image](https://github.com/user-attachments/assets/e600f530-00a7-408f-8a79-48c973743241)
