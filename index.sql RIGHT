@@ -1,0 +1,10 @@
+SELECT
+    E.Name,
+    D.DepartmentName,
+    D.Location
+FROM
+    Employees AS E
+RIGHT JOIN
+    Departments AS D -- Conceptually, the RIGHT table is Departments
+ON
+    E.DepartmentID = D.DepartmentID;
