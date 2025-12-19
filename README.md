@@ -26,4 +26,23 @@ Finally, Correlated Subqueries are utilized to inject dynamic logic into the rep
 
 # OUTPUT OF THE TASK 
 
+TASK 1.1 RIGHT 
+![Image](https://github.com/user-attachments/assets/0ee6480a-1624-484d-8ff5-6bcdc3ad4e68)
 
+1.1 LEFT
+![Image](https://github.com/user-attachments/assets/939d704c-83d8-4153-b029-c8da1ed0b71a)
+
+1.1 INNER
+![Image](https://github.com/user-attachments/assets/9eb64fd0-1814-4e28-9080-f0c32641c955)
+
+1.1 FULL JOINS
+![Image](https://github.com/user-attachments/assets/ef641467-2f32-4d35-8aae-559e69493bc4)
+
+1.2 RIGHT
+![Image](https://github.com/user-attachments/assets/84b55033-fa62-494c-ac03-9256e557fe42)
+
+1.2 LEFT
+![Image](https://github.com/user-attachments/assets/f97e50da-d34b-4f97-bfd8-ba52a2cdda06)
+
+1.2 INNER
+![Image](https://github.com/user-attachments/assets/4993d6e7-4cfb-445e-8390-ef3130bde67d)
